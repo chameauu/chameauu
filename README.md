@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/jmal mohamed ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jmal mohamed ali" height="30" width="40" /></a>
+<a href="https://dev.to/jmalmohamedali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jmalmohamedali" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mohamedali jmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohamedali jmal" height="30" width="40" /></a>
 <a href="https://kaggle.com/mohamed ali jmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamed ali jmal" height="30" width="40" /></a>
 <a href="https://dribbble.com/mohamed ali jmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mohamed ali jmal" height="30" width="40" /></a>
