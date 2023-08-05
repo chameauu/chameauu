@@ -3,14 +3,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/mohamedalijmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jmalmohamedali" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mohamedali-jmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohamedali jmal" height="30" width="40" /></a>
-<a href="https://kaggle.com/mohamedalijmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamed ali jmal" height="30" width="40" /></a>
-<a href="https://dribbble.com/MohamedAli_Jmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mohamed ali jmal" height="30" width="40" /></a>
-<a href="https://www.behance.net/mohamedalijmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mohamed ali jmal" height="30" width="40" /></a>
-<a href="https://hashnode.com/@JmalMohamedAli" target="blank"><img align="center" src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="jmal mohamed ali" height="30" width="40" /></a>
-<a href="https://medium.com/@keepgoingmohamedali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohamedali" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Mohamed_Ali_Jmal" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/2560px-Codeforces_logo.svg.png" alt="codeforces" height="30" width="100" /></a>
+<a href="https://dev.to/mohamedalijmal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jmalmohamedali" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/mohamedali-jmal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohamedali jmal" height="30" width="40" /></a>
+<a href="https://kaggle.com/mohamedalijmal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamed ali jmal" height="30" width="40" /></a>
+<a href="https://dribbble.com/MohamedAli_Jmal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mohamed ali jmal" height="30" width="40" /></a>
+<a href="https://www.behance.net/mohamedalijmal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mohamed ali jmal" height="30" width="40" /></a>
+<a href="https://hashnode.com/@JmalMohamedAli" target="_blank"><img align="center" src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="jmal mohamed ali" height="30" width="40" /></a>
+<a href="https://medium.com/@keepgoingmohamedali" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohamedali" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Mohamed_Ali_Jmal" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/2560px-Codeforces_logo.svg.png" alt="codeforces" height="30" width="100" /></a>
 
 </p>
 
