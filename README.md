@@ -10,6 +10,7 @@
 <a href="https://www.behance.net/mohamedalijmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mohamed ali jmal" height="30" width="40" /></a>
 <a href="https://hashnode.com/@JmalMohamedAli" target="blank"><img align="center" src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="jmal mohamed ali" height="30" width="40" /></a>
 <a href="https://medium.com/@keepgoingmohamedali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohamedali" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Mohamed_Ali_Jmal" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/2560px-Codeforces_logo.svg.png" alt="codeforces" height="40" width="50" /></a>
 
 </p>
 
