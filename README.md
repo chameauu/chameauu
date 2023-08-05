@@ -10,7 +10,7 @@
 <a href="https://www.behance.net/mohamedalijmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mohamed ali jmal" height="30" width="40" /></a>
 <a href="https://hashnode.com/@JmalMohamedAli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="jmal mohamed ali" height="30" width="40" /></a>
 <a href="https://medium.com/@keepgoingmohamedali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohamedali" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mohamed_ali_jm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mohamed_ali_jmal" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
