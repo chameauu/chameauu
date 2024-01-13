@@ -44,9 +44,10 @@
 <br>
 
 -----
-<img src="https://img.shields.io/badge/codeforces:  Mohamed Ali Jmal-%2300acee.svg?color=ffffff&style=for-the-badge&logo=codeforces&logoColor=black" alt=codeforces style="margin-bottom: 5px;"/>
-</a>
+
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
