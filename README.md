@@ -8,12 +8,12 @@
 	
 ## <picture><img src = "about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="Right_Side.gif" width = 150px></picture>
 - :computer:	 Currently learning new competitive programming topics.
 - 👯 looking forward to collaborate on open source projects.
 
 
-## <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
