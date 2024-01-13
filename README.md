@@ -10,11 +10,11 @@
 
 <picture> <img align="right" src="Right_Side.gif" width = 250px></picture>
 
-## <br>
+
 
 - :computer:	 Currently learning new competitive programming topics.
 - 👯 looking forward to collaborate on open source projects.
-## <br>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
@@ -54,10 +54,9 @@
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <div align="center">
-## <br>
 
 ## [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAliJmal&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-## <br>
+ <br>
 
 <a href="https://github.com/MohamedAliJmal">
   <img src="https://github-readme-stats-gtxf.vercel.app/api/top-langs?username=MohamedAliJmal&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="350" height="130" alt="MohamedAli Jmal"/>
