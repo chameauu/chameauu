@@ -44,7 +44,8 @@
 <br>
 
 -----
-
+<img src="https://img.shields.io/badge/codeforces:  Mohamed Ali Jmal-%2300acee.svg?color=ffffff&style=for-the-badge&logo=codeforces&logoColor=black" alt=codeforces style="margin-bottom: 5px;"/>
+</a>
 <br>
 
 
