@@ -8,7 +8,7 @@
 	
 ## <picture><img src = "about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="Right_Side.gif" width = 150px></picture>
+<picture> <img align="right" src="Right_Side.gif" width = 100px></picture>
 - :computer:	 Currently learning new competitive programming topics.
 - 👯 looking forward to collaborate on open source projects.
 
@@ -53,7 +53,7 @@
 <div align="center">
 
 ## [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAliJmal&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
- <br>
+
 
 <a href="https://github.com/MohamedAliJmal">
   <img src="https://github-readme-stats-gtxf.vercel.app/api/top-langs?username=MohamedAliJmal&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="350" height="130" alt="MohamedAli Jmal"/>
