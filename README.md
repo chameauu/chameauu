@@ -9,9 +9,6 @@
 ## <picture><img src = "about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="Right_Side.gif" width = 250px></picture>
-
-
-
 - :computer:	 Currently learning new competitive programming topics.
 - 👯 looking forward to collaborate on open source projects.
 
