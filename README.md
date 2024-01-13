@@ -70,7 +70,7 @@
 
 
 ## <b> Let's Connect..!</b>
-
+<br>
 <div align='left'>
 
 <a href="https://www.linkedin.com/in/mohamedali-jmal-b29a1620b/" target="_blank">
