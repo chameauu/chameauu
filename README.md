@@ -107,10 +107,7 @@
 <img src="https://img.shields.io/badge/linkedin:  Mohamed Ali Djemal-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
-<br>
-<a href="https://codeforces.com/profile/Mohamed_Ali_Jmal" target="_blank">
-<img src="https://img.shields.io/badge/codeforces:  Mohamed Ali Djemal-%2300acee.svg?color=ffffff&style=for-the-badge&logo=codeforces&logoColor=black" alt=codeforces style="margin-bottom: 5px;"/>
-</a>
+
 
 
 
