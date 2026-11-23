@@ -91,15 +91,11 @@
 </div>
 
 ## <b> Let's Connect..!</b>
-<br>
 <div align='left'>
 
 <a href="https://www.linkedin.com/in/mohamed-ali-djemal/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Mohamed Ali Djemal-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-	
 </div>
 
-<br>
-<br>
 
