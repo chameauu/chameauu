@@ -106,15 +106,9 @@
 <a href="https://www.linkedin.com/in/mohamed-ali-djemal/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Mohamed Ali Djemal-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-
-
-
-
-
 	
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
