@@ -1,83 +1,117 @@
-
-<h1 align="center"><b>Hi, I'm Mohamed Ali Djemal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></b></h1>
-
+<!-- Animated Header -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+there..;Data+Engineering+Student,;Competitive+Programmer,;Active+Learner,;Love+to+learn+new+stuffs..<3;Programming+is+like+magic+but+real;"></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg"/>
+    <img src="./assets/header-light.svg" width="100%" alt="Mohamed Ali Djemal — Data Engineering Student"/>
+  </picture>
 </p>
 
-	
- ## <picture><img src = "about_me.gif" width = 50px></picture> **About me**
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chameauu&base=400&style=flat-square&color=1D4ED8" alt="Profile views counter"/>
+</p>
 
-- :computer:	 Currently learning new competitive programming topics.
-- 👯 looking forward to collaborate on open source projects.
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+### ✦ About Me
 
+I'm a **data engineering student** who builds data platforms end to end — batch and CDC lakehouses with Spark, Kafka, dbt and Trino — and the infrastructure that runs them: Kubernetes, IaC with Ansible, CI/CD and observability with OpenTelemetry, Prometheus, Grafana and Loki. I also build **AI agents and RAG systems**, from LangGraph investigation engines to a local step-by-step tracer for agent runs.
 
+I care about systems that are reproducible, observable and **verified**, not just demoed. I'm currently sharpening my competitive programming and looking to collaborate on open-source projects.
+
+Have an opportunity or a project in mind? Let's connect:
+
+<p>
+  <a href="https://github.com/chameauu"><img height="24" src="https://img.shields.io/badge/GitHub-chameauu-181717?style=flat&amp;logo=github&amp;logoColor=white&amp;labelColor=555555" alt="GitHub: chameauu"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mohamed-ali-djemal/"><img height="24" src="https://img.shields.io/badge/LinkedIn-mohamed--ali--djemal-0A66C2?style=flat&amp;labelColor=555555&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU1di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D" alt="LinkedIn: mohamed-ali-djemal"/></a>
+</p>
+
+---
+
+### ✦ Tech Stack
+
+<div align="center">
+<table>
+  <tr>
+    <td width="230"><b>💻&nbsp; Languages & Frameworks</b></td>
+    <td><img src="./assets/icons/languages.svg" height="40" alt="C++, Python, C, Java, JavaScript, TypeScript, SQL"/></td>
+  </tr>
+  <tr>
+    <td width="230"><b>☁️&nbsp; Cloud Native & DevOps</b></td>
+    <td><img src="./assets/icons/devops.svg" height="40" alt="Docker, Kubernetes, GitHub Actions, Git, GitHub, Linux, Bash"/></td>
+  </tr>
+  <tr>
+    <td width="230"><b>📈&nbsp; Observability & SRE</b></td>
+    <td><img src="./assets/icons/observability.svg" height="40" alt="OpenTelemetry, Prometheus, Grafana, Jaeger, Loki, ClickHouse"/></td>
+  </tr>
+  <tr>
+    <td width="230"><b>🏗️&nbsp; Data Engineering</b></td>
+    <td><img src="./assets/icons/data-engineering.svg" height="40" alt="Hadoop, Spark, Kafka, Hive, dbt, Airflow"/></td>
+  </tr>
+  <tr>
+    <td width="230"><b>🤖&nbsp; AI & Agents</b></td>
+    <td><img src="./assets/icons/ai.svg" height="40" alt="LangChain, LangGraph, RAG, MCP"/></td>
+  </tr>
+</table>
+</div>
+
+---
+
+### ✦ Selected Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><b>AIOPS</b></sub><br/>
+      <a href="https://github.com/chameauu/kubeHealer"><b>KubeHeal</b></a><br/>
+      Self-healing Kubernetes agent that injects a controlled fault, gets human approval, then verifies the workload actually recovered and records MTTR.<br/>
+      <sub>Kubernetes · Chaos Mesh · LangGraph · FastAPI</sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub><b>AI &amp; LLM</b></sub><br/>
+      <a href="https://github.com/chameauu/CloudInvestigator"><b>CloudInvestigator</b></a><br/>
+      Read-only cloud incident investigation engine that cites its evidence and abstains when the evidence doesn't support a conclusion.<br/>
+      <sub>LangGraph · Azure · FastAPI</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><b>DATA ENGINEERING</b></sub><br/>
+      <a href="https://github.com/chameauu/TaxiFlow"><b>TaxiFlow</b></a><br/>
+      NYC TLC batch + CDC lakehouse with Delta, dbt models on Trino and a Superset dashboard.<br/>
+      <sub>Spark · Kafka · Debezium · dbt · Trino</sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub><b>OBSERVABILITY</b></sub><br/>
+      <a href="https://github.com/chameauu/argus"><b>Argus</b></a><br/>
+      Local LGTM platform where one descriptor file generates a service's metrics, logs, traces, SLOs and alerts.<br/>
+      <sub>OpenTelemetry · Prometheus · Grafana · Loki</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><b>INFRASTRUCTURE</b></sub><br/>
+      <a href="https://github.com/chameauu/Hadoop_HA_cluster_IaC"><b>Hadoop HA Cluster</b></a><br/>
+      Production-ready Hadoop 3.3.6 cluster with ZooKeeper failover and YARN HA, automated with Ansible.<br/>
+      <sub>Hadoop · ZooKeeper · YARN · Ansible</sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub><b>AI &amp; AGENTS</b></sub><br/>
+      <a href="https://github.com/chameauu/AgentTracer"><b>AgentTracer</b></a><br/>
+      Local-first step-by-step debugger for AI agents, built on OpenTelemetry spans and SQLite.<br/>
+      <sub>Python · OpenTelemetry · SQLite · React</sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-
-- **Languages**:
-
-  ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-- **Cloud Native & DevOps**:
-
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-  ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-- **Observability & SRE**:
-
-  ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
-  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-  ![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=black)
-  ![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-  ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
-
-- **Big Data & Data Engineering**:
-
-  ![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-  ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-  ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-  ![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
-  ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-  ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-  ![ETL](https://img.shields.io/badge/ETL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-4479A1?style=for-the-badge&logo=apacheairflow&logoColor=white)
-
-- **AI & Agents**:
-
-  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-  ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-  ![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=openai&logoColor=white)
-  ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-
-
-
+  <a href="https://github.com/chameauu?tab=repositories"><b>See more projects on GitHub →</b></a>
 </p>
-<br>
 
+---
 
-
-
-
-
-
-
- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b><br>
+### ✦ GitHub Stats
 
 <div align="center">
 
@@ -90,12 +124,10 @@
 </a>
 </div>
 
-## <b> Let's Connect..!</b>
-<div align='left'>
-
-<a href="https://www.linkedin.com/in/mohamed-ali-djemal/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Mohamed Ali Djemal-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</div>
-
-
+<!-- Animated Footer -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg"/>
+    <img src="./assets/footer-light.svg" width="100%" alt="Thanks for stopping by"/>
+  </picture>
+</p>
