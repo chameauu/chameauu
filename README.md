@@ -17,8 +17,6 @@
 
 I'm a **final-year engineering student** and open-source enthusiast — an aspiring **platform engineer** building cloud-native systems, data-driven tools and automation.
 
-I build data platforms end to end — batch and CDC lakehouses with Spark, Kafka, dbt and Trino — and the infrastructure that runs them: Kubernetes, IaC with Ansible, CI/CD and observability with OpenTelemetry, Prometheus, Grafana and Loki. I also build **AI agents and RAG systems**, from LangGraph investigation engines to a local step-by-step tracer for agent runs. I care about systems that are reproducible, observable and **verified**, not just demoed.
-
 Have an opportunity or a project in mind? Let's connect:
 
 <p>
