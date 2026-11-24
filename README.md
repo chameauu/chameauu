@@ -2,7 +2,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg"/>
-    <img src="./assets/header-light.svg" width="100%" alt="Mohamed Ali Djemal — Data Engineering Student"/>
+    <img src="./assets/header-light.svg" width="100%" alt="Mohamed Ali Djemal — Aspiring Platform Engineer"/>
   </picture>
 </p>
 
@@ -15,9 +15,9 @@
 
 ### ✦ About Me
 
-I'm a **data engineering student** who builds data platforms end to end — batch and CDC lakehouses with Spark, Kafka, dbt and Trino — and the infrastructure that runs them: Kubernetes, IaC with Ansible, CI/CD and observability with OpenTelemetry, Prometheus, Grafana and Loki. I also build **AI agents and RAG systems**, from LangGraph investigation engines to a local step-by-step tracer for agent runs.
+I'm a **final-year engineering student** and open-source enthusiast — an aspiring **platform engineer** building cloud-native systems, data-driven tools and automation.
 
-I care about systems that are reproducible, observable and **verified**, not just demoed. I'm currently sharpening my competitive programming and looking to collaborate on open-source projects.
+I build data platforms end to end — batch and CDC lakehouses with Spark, Kafka, dbt and Trino — and the infrastructure that runs them: Kubernetes, IaC with Ansible, CI/CD and observability with OpenTelemetry, Prometheus, Grafana and Loki. I also build **AI agents and RAG systems**, from LangGraph investigation engines to a local step-by-step tracer for agent runs. I care about systems that are reproducible, observable and **verified**, not just demoed.
 
 Have an opportunity or a project in mind? Let's connect:
 
