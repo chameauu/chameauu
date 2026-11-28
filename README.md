@@ -60,43 +60,43 @@ Have an opportunity or a project in mind? Let's connect:
   <tr>
     <td width="50%" valign="top">
       <sub><b>AIOPS</b></sub><br/>
-      <a href="https://github.com/chameauu/kubeHealer"><b>KubeHeal</b></a><br/>
+      <a href="https://github.com/chameauu/kubeHealer"><b>KubeHealer</b></a><br/>
       Self-healing Kubernetes agent that injects a controlled fault, gets human approval, then verifies the workload actually recovered and records MTTR.<br/>
       <sub>Kubernetes · Chaos Mesh · LangGraph · FastAPI</sub>
     </td>
-    <td width="50%" valign="top">
-      <sub><b>AI &amp; LLM</b></sub><br/>
-      <a href="https://github.com/chameauu/CloudInvestigator"><b>CloudInvestigator</b></a><br/>
-      Read-only cloud incident investigation engine that cites its evidence and abstains when the evidence doesn't support a conclusion.<br/>
-      <sub>LangGraph · Azure · FastAPI</sub>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <sub><b>DATA ENGINEERING</b></sub><br/>
       <a href="https://github.com/chameauu/TaxiFlow"><b>TaxiFlow</b></a><br/>
       NYC TLC batch + CDC lakehouse with Delta, dbt models on Trino and a Superset dashboard.<br/>
       <sub>Spark · Kafka · Debezium · dbt · Trino</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <sub><b>OBSERVABILITY</b></sub><br/>
       <a href="https://github.com/chameauu/argus"><b>Argus</b></a><br/>
       Local LGTM platform where one descriptor file generates a service's metrics, logs, traces, SLOs and alerts.<br/>
       <sub>OpenTelemetry · Prometheus · Grafana · Loki</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <sub><b>INFRASTRUCTURE</b></sub><br/>
       <a href="https://github.com/chameauu/Hadoop_HA_cluster_IaC"><b>Hadoop HA Cluster</b></a><br/>
       Production-ready Hadoop 3.3.6 cluster with ZooKeeper failover and YARN HA, automated with Ansible.<br/>
       <sub>Hadoop · ZooKeeper · YARN · Ansible</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <sub><b>AI &amp; AGENTS</b></sub><br/>
       <a href="https://github.com/chameauu/AgentTracer"><b>AgentTracer</b></a><br/>
       Local-first step-by-step debugger for AI agents, built on OpenTelemetry spans and SQLite.<br/>
       <sub>Python · OpenTelemetry · SQLite · React</sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub><b>AI &amp; AGENTS</b></sub><br/>
+      <a href="https://github.com/chameauu/Scraperr"><b>Scraperr</b></a><br/>
+      LangGraph web-scraping agent that browses public pages, validates the extracted data and returns a structured result.<br/>
+      <sub>LangGraph · Playwright · Python</sub>
     </td>
   </tr>
 </table>
