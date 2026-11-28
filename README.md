@@ -20,8 +20,6 @@ I'm a **final-year engineering student** and open-source enthusiast — an aspir
 Have an opportunity or a project in mind? Let's connect:
 
 <p>
-  <a href="https://github.com/chameauu"><img height="24" src="https://img.shields.io/badge/GitHub-chameauu-181717?style=flat&amp;logo=github&amp;logoColor=white&amp;labelColor=555555" alt="GitHub: chameauu"/></a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/mohamed-ali-djemal/"><img height="24" src="https://img.shields.io/badge/LinkedIn-mohamed--ali--djemal-0A66C2?style=flat&amp;labelColor=555555&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU1di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D" alt="LinkedIn: mohamed-ali-djemal"/></a>
 </p>
 
